@@ -1,2 +1,2 @@
 # CarPuzzle
-Car puzzle game for kids
+Car jigsaw puzzle for kids
